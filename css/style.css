@@ -1,0 +1,48 @@
+/* Navigation */
+.navbar {
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbar a {
+    padding: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    font-family:arial;
+}
+
+/* hero Image*/
+
+.heroImg {
+    height: 50%;
+    width: 100%;
+    align-content: center;
+}
+
+/* Footer */
+
+.footer-content {
+    text-align: center;
+    font-family:arial;
+    font-size: 18px;
+}
+
+.footer {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    background-color: white;
+    color: black;
+   
+  }
+
+  .socialMedia {
+    text-decoration: none;
+    padding: 10px;
+   
+    
+
+  }
